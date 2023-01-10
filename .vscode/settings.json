@@ -1,0 +1,4 @@
+{
+    "cortex-debug.showRTOS": true
+  //  "cortex-debug.gdbPath": "D:\\setup\\Toolchain\OpenOCD-20211118-0.11.0\bin"
+}
